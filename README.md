@@ -1,2 +1,2 @@
 # PC-Land
-SQL Queries on a shop selling PCs and PC equipment
+SQL database creation, data insertion, and queries on a shop selling PCs and PC equipment.
